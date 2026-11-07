@@ -1,0 +1,25 @@
+1. to give acces to your website to others:
+    ngrok config add-authtoken 3JMMZCPsfckVexEGllz9XrqTPxA_61VF5iP3TSAFpUt7C5SBn
+    ngrok http 3000
+
+    
+2. useful shit for website
+    uiverse
+
+3. ask chatipati how to install postgrespl in docker
+
+4. npm install next-themes
+
+5. npm install date-fns
+
+6. npm install next-intl
+
+7. npm install -D @types/aos
+
+8. electron.js
+
+9. 
+
+10. 
+
+
